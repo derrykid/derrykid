@@ -1,1 +1,1 @@
-### Hi, I am Derry 👋
+### Wolf in a Linux mug. It's cute, aye?
