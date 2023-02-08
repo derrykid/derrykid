@@ -1,5 +1,4 @@
-
-eye catchy stuff
+![greeting](greeting.gif)
 
 # My Dream
 
@@ -17,23 +16,26 @@ Build an extremely customizable desktop environment and an accessible AI client.
 
 ```sql
 |
-X───>   Select  Derry                from English Major
+X───>   Select       Derry                from  English Major
 |
-X───>   Join    Software Development on Fedora Linux
+X───>   Join         Software Development on    Fedora Linux
 |
-X───>   Join    Analysis Mathematics on Machine Learning
+X───>   Join         Analysis Mathematics on    Machine Learning
 |
-└───>   create view AI engineer      as future
+└───>   Create view  AI engineer          as    Future
 ```
 
 # What have I achieve?
 
-Web service Java
+## Web service API
 
 - Line (a popular chat application in Japan, Korea, Taiwan) chatbot that able to play Texas Hold'em between users
 - Restful API of Pokemon to store data entities
 
-Data and Machine Learning Python
+---
+
+## Data and Machine Learning Python 
+
 - Big data pipeline
     - retrieve data by web scraping
     - preprocess and persistence
@@ -46,4 +48,9 @@ Data and Machine Learning Python
 - Competitive product analyst at Philiphines
 
 # Hard skills
-Java, Python, Linux, SQL, docker
+
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="70"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="70"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="70"/>
+<img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" width="70"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="70"/>
