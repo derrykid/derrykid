@@ -14,15 +14,15 @@ Build an extremely customizable desktop environment and an accessible AI client.
 
 # How will I do it?
 
-```sql
-|
-X───>   Select       Derry                from  English Major
-|
-X───>   Join         Software Development on    Fedora Linux
-|
-X───>   Join         Analysis Mathematics on    Machine Learning
-|
-└───>   Create view  AI engineer          as    Future
+```bash
+│
+├────>   Select       Derry                from  English Major
+│
+├────>   Join         Software Development on    Fedora Linux
+│
+├────>   Join         Analysis Mathematics on    Machine Learning
+│
+└────>   Create view  AI engineer          as    Future
 ```
 
 # What have I achieve?
@@ -49,8 +49,4 @@ X───>   Join         Analysis Mathematics on    Machine Learning
 
 # Hard skills
 
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="70"/>
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="70"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="70"/>
-<img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" width="70"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="70"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" style="padding:10px;"/><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" style="padding:10px;"/><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" style="padding:10px;"/><img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" width="50" style="padding:10px;"/><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="50" style="padding:10px;"/>
