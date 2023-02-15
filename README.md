@@ -28,7 +28,7 @@ Then you've met the one who shares the same interests.
 └────>   Create view  AI engineer          as    Future
 ```
 
-# 2. What have I achieve so far?
+# 2. What have I achieved so far?
 
 ## A. Java - Web service API in Spring Boot
 
