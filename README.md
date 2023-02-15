@@ -30,19 +30,19 @@ Then you've met the one who shares the same interests.
 
 # 2. What have I achieve so far?
 
-## Java Web service API in Spring Boot
+## A. Java - Web service API in Spring Boot
 
-- Line (a popular chat application in Japan, Korea, Taiwan) chatbot that able to play Texas Hold'em between users
-- Restful API of Pokemon to store data entities
+- Line chatbot that let users to play Texas Hold'em: [show me the code!](https://github.com/derrykid/Poker-Line-Bot) 
+- Restful API of Pokemon to store data entities: [show me the code!](https://github.com/derrykid/Pokemon-RestAPI)
 
 
-## Data and Machine Learning 
+## B. Python - Data and Machine Learning 
 
-- Big data pipeline
-    - retrieve data by web scraping
-    - preprocess and persistence
-    - Apache Spark process and MLLib Machine Learning
-    - Explanatory analysis for decision making
+Big data pipeline: [show me the code!](https://github.com/derrykid/atu.donegal-bda-module)
+- retrieve data by web scraping
+- preprocess and persistence
+- Apache Spark process and MLLib Machine Learning
+- Explanatory analysis for decision making
 
 # 3. Career <a href="https://www.linkedin.com/in/derry-yeh/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30"/></a>
 
