@@ -19,13 +19,13 @@ Then you've met the one who shares the same interests.
 
 ```bash
 │
-├────>   Select       Derry                from  English Major
+├────>   Select       Derry                   from    English Major
 │
-├────>   Join         Software Development on    Fedora Linux
+├────>   Join         Software Development    on      Fedora Linux
 │
-├────>   Join         Analysis Mathematics on    Machine Learning
+├────>   Join         Analysis Mathematics    on      Machine Learning
 │
-└────>   Create view  AI engineer          as    Future
+└────>   Create view  AI engineer             as      Future
 ```
 
 # 2. What have I achieved so far?
