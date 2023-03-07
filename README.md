@@ -51,4 +51,9 @@ Big data pipeline: [show me the code!](https://github.com/derrykid/atu.donegal-b
 
 # 4. Hard skills
 
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" style="padding:10px;"/><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" style="padding:10px;"/><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" style="padding:10px;"/><img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" width="50" style="padding:10px;"/><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="50" style="padding:10px;"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" style="padding:10px;"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" style="padding:10px;"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" style="padding:10px;"/>
+<img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" width="50" style="padding:10px;"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="50" style="padding:10px;"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" style="padding:10px;"/>
