@@ -10,7 +10,7 @@
 
 ## Python - Data and Machine Learning 
 
-- [Dissertation](https://github.com/derrykid/dissertation)
+- [Dissertation](https://github.com/derrykid/dissertation): Data collection by Python Selenuim, Rest API by SpringBoot Java
   - Docker compose
   - Web scrapper: collect data for real time prediction. Python scripts
   - Java Springboot Rest API
