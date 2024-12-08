@@ -1,16 +1,34 @@
 ![greeting](greeting.gif)
 
 
-## A. Java - Web service API in Spring Boot
+## Java - Web service API in Spring Boot
 
-- Line chatbot that let users to play Texas Hold'em: [show me the code!](https://github.com/derrykid/Poker-Line-Bot) 
-- Restful API of Pokemon to store data entities: [show me the code!](https://github.com/derrykid/Pokemon-RestAPI)
+- [Java notes](https://github.com/derrykid/java-notes)
+- [Play Poker in LINE](https://github.com/derrykid/Poker-Line-Bot): SpringBoot, web hook, use slash command
+- [Pokemon RestAPI](https://github.com/derrykid/Pokemon-RestAPI): SQLite, Jackson to parse JSON, JPA
 
 
-## B. Python - Data and Machine Learning 
+## Python - Data and Machine Learning 
 
-Big data pipeline: [show me the code!](https://github.com/derrykid/atu.donegal-bda-module)
-- retrieve data by web scraping
-- preprocess and persistence
-- Apache Spark process and MLLib Machine Learning
-- Explanatory analysis for decision making
+- [Dissertation](https://github.com/derrykid/dissertation)
+  - Docker compose
+  - Web scrapper: collect data for real time prediction. Python scripts
+  - Java Springboot Rest API
+  - Jupyter notebook with Google Colab to train model
+
+- Big data pipeline: [show me the code!](https://github.com/derrykid/atu.donegal-bda-module)
+  - Web scrapper on big retailers in Ireland
+  - Preprocess and ORM for data persistence
+  - Apache Spark and 
+  - Apache Spark process and MLLib Machine Learning
+  - Explanatory analysis for decision making
+
+## Linux commands
+
+- [Linux commands](https://github.com/derrykid/Linux_Cmds)
+
+## Web hosting
+
+- [Japanese notes](https://github.com/derrykid/jp-notes)
+- [Hugo generated website assets](https://github.com/derrykid/hugo-articles-repo)
+- [Hugo article markdown files](https://github.com/derrykid/hugo-base)
